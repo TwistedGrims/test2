@@ -24,7 +24,7 @@ android {
 cloudstream {
         //overrideUrlPrefix("https://git.disroot.org/ayza/FStream/src/branch/main/")
     buildBranch="main"
-    setRepo("ayza", "FStream", "https://git.disroot.org/ayza/FStream/", "https://git.disroot.org/ayza/FStream/raw/branch/%branch%/%filename%")
+    setRepo("ayza", "FStream", "https://github.com/TwistedGrims/test/", "https://git.disroot.org/ayza/FStream/raw/branch/%branch%/%filename%")
     language = "fr"
     // All of these properties are optional, you can safely remove them
 
