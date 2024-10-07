@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main_settings_title">Paramètres</string>
+    <string name="provider_settings_title">Activer/Désactiver les sources</string>
+    <string name="provider_url_settings_title">Modifier l\'url d\'une source</string>
+    <string name="provider_to_select_title">Source à modifier</string>
+    <string name="alldebrid_account_title">Lier son compte Alldebrid</string>
+    <string name="alldebrid_info_title">Qu\'est ce qu\'AllDebrid ?</string>
+    <string name="alldebrid_info_summary">[OPTIONEL] Alldebrid permet de lire des links "premium" en exellente qualité (4k / 1080p).
+        Essai gratuit de 7 jour possible !
+        Fournisseur avec 50 K Films et séries visionnables
+    </string>
+</resources>
